@@ -1,0 +1,25 @@
+{
+  "name": "tic-tac-toe",
+  "version": "1.0.0",
+  "description": "Well-known game of tic-tac-toe. Main remarkable features of this edition: Allow multi-player",
+  "main": "index.js",
+  "scripts": {
+    "lint": "eslint ./js",
+    "prettier": "prettier ./js --write",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aovdiien/tic-tac-toe-js.git"
+  },
+  "author": "Original: Rob Hitt, Fork Editions: Andrii Ovdiienko",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aovdiien/tic-tac-toe-js/issues"
+  },
+  "homepage": "https://github.com/aovdiien/tic-tac-toe-js#readme",
+  "devDependencies": {
+    "eslint": "^7.26.0",
+    "prettier": "^2.3.0"
+  }
+}
